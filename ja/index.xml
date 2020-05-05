@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seiya-km</title>
+    <link>https://seiya-km.github.io/ja/</link>
+      <atom:link href="https://seiya-km.github.io/ja/index.xml" rel="self" type="application/rss+xml" />
+    <description>seiya-km</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ja</language><copyright>Komatsu Seiya</copyright><lastBuildDate>Tue, 05 May 2020 12:08:12 +0900</lastBuildDate>
+    <image>
+      <url>https://seiya-km.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>seiya-km</title>
+      <link>https://seiya-km.github.io/ja/</link>
+    </image>
+    
+    <item>
+      <title>Development of Can-Sat using OS-onboard microcomputer board: Initial Development and rocket experiment</title>
+      <link>https://seiya-km.github.io/ja/publication/knct-kiyo/</link>
+      <pubDate>Tue, 05 May 2020 12:08:12 +0900</pubDate>
+      <guid>https://seiya-km.github.io/ja/publication/knct-kiyo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constructiion and Operation of Mesh Network for Small Scale Environment using Raspberry Pi</title>
+      <link>https://seiya-km.github.io/ja/publication/ieice2020/</link>
+      <pubDate>Tue, 05 May 2020 11:59:26 +0900</pubDate>
+      <guid>https://seiya-km.github.io/ja/publication/ieice2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Botnet Cooperative Behavior usign Deep Learning on Darknet</title>
+      <link>https://seiya-km.github.io/ja/publication/scis2019/</link>
+      <pubDate>Tue, 05 May 2020 11:52:34 +0900</pubDate>
+      <guid>https://seiya-km.github.io/ja/publication/scis2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
