@@ -3,6 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://seiya-km.github.io/project/messiah-net/</loc>
+    <lastmod>2020-05-06T11:05:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seiya-km.github.io/project/</loc>
+    <lastmod>2020-05-06T11:05:32+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://seiya-km.github.io/</loc>
+    <lastmod>2020-05-06T11:05:32+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://seiya-km.github.io/ja/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://seiya-km.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://seiya-km.github.io/project/takuma-isec/</loc>
+    <lastmod>2020-05-06T11:05:23+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://seiya-km.github.io/publication-type/0/</loc>
     <lastmod>2020-05-05T12:08:12+09:00</lastmod>
     <xhtml:link
@@ -149,21 +179,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://seiya-km.github.io/author/seiya-komatsu/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://seiya-km.github.io/</loc>
-    <lastmod>2020-05-05T12:08:12+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://seiya-km.github.io/ja/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://seiya-km.github.io/"
                 />
   </url>
   
